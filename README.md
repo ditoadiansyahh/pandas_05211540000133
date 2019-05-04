@@ -1,2 +1,3 @@
-# pandas_05211540000133
-Individual Task - Information Visualization
+## Tugas Individu
+### Pandas
+### Rachmaddinta Herpradipto A - 05211540000133
